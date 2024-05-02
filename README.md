@@ -16,9 +16,9 @@ There are several things we require from **all developers** for the moment.
 
 ### API, Protocol documentation
 
-Telegram API manuals: https://core.telegram.org/api
+[Telegram API manuals](https://core.telegram.org/api)
 
-MTproto protocol manuals: https://core.telegram.org/mtproto
+[MTproto protocol manuals](https://core.telegram.org/mtproto)
 
 ### Compilation Guide
 
@@ -26,14 +26,14 @@ MTproto protocol manuals: https://core.telegram.org/mtproto
 
 You will require Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 
-1. Download the Telegram source code from https://github.com/DrKLO/Telegram ( git clone https://github.com/DrKLO/Telegram.git )
+1. Download the Telegram source code from [GitHub](https://github.com/DrKLO/Telegram) (`git clone https://github.com/DrKLO/Telegram.git`)
 2. Copy your release.keystore into TMessagesProj/config
 3. Fill out RELEASE_KEY_PASSWORD, RELEASE_KEY_ALIAS, RELEASE_STORE_PASSWORD in gradle.properties to access your  release.keystore
-4.  Go to https://console.firebase.google.com/, create two android apps with application IDs org.telegram.messenger and org.telegram.messenger.beta, turn on firebase messaging and download google-services.json, which should be copied to the same folder as TMessagesProj.
+4.  Go to [Firebase](https://console.firebase.google.com/), create two android apps with application IDs org.telegram.messenger and org.telegram.messenger.beta, turn on firebase messaging and download google-services.json, which should be copied to the same folder as TMessagesProj.
 5. Open the project in the Studio (note that it should be opened, NOT imported).
 6. Fill out values in TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java – there’s a link for each of the variables showing where and which data to obtain.
 7. You are ready to compile Telegram.
 
 ### Localization
 
-We moved all translations to https://translations.telegram.org/en/android/. Please use it.
+We moved all translations to [translations.telegram.org/en/android/](https://translations.telegram.org/en/android/). Please use it.
