@@ -38,7 +38,7 @@ You will need Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 
 We moved all [translations](https://translations.telegram.org/en/android/).
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **Note**: If you have questions you would like us to answer, please let us know by opening a GitHub issue detailing your problem.
 
