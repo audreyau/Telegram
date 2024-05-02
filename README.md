@@ -42,17 +42,17 @@ We moved all [translations](https://translations.telegram.org/en/android/).
 
 **Note**: If you have questions you would like us to answer, please let us know by opening a GitHub issue detailing your problem.
 
-1. **How can I obtain an api_id for my Telegram application?**\n
+1. **How can I obtain an api_id for my Telegram application?**<br/>
 To obtain an api_id for your Telegram application, please visit the official [Telegram API documentation](https://core.telegram.org/) for detailed instructions. You'll need to register your application and obtain the necessary credentials to access the Telegram API.
 
-2. **Can I use the Telegram name or logo for my unofficial app?**\n
+2. **Can I use the Telegram name or logo for my unofficial app?**<br/>
 No, we kindly request that developers refrain from using the name "Telegram" for their unofficial applications. If you're developing an unofficial app, please ensure that your users understand that it is not affiliated with or endorsed by Telegram. Additionally, avoid using the standard Telegram logo as your app's logo to maintain clarity regarding its unofficial status.
 
-3. **What security measures should I consider when developing with the Telegram API?**\n
+3. **What security measures should I consider when developing with the Telegram API?**<br/>
 Security is key when developing applications that handle user data. We highly recommend familiarizing yourself with our security guidelines to ensure that your application adequately protects users' data and privacy. Additionally, always implement secure coding practices and encryption mechanisms to safeguard sensitive information transmitted through your app.
 
-4. **How do I contribute translations to the Telegram Android app?**\n
+4. **How do I contribute translations to the Telegram Android app?**<br/>
 We've centralized all translations for the Telegram Android app on our [translation platform](https://translations.telegram.org/en/android/). If you're interested in contributing translations, simply visit the platform, select your language, and start translating the provided strings.
 
-5. **Can I customize the Telegram app for my specific use case or audience?**\n
+5. **Can I customize the Telegram app for my specific use case or audience?**<br/>
 Yes, you're welcome to customize the Telegram app to suit your specific requirements or audience. However, please note that any modifications should comply with our licensing terms, and we encourage you to publish your modified code as per the requirements outlined in the licenses. Additionally, ensure that your customizations adhere to our branding guidelines and respect users' privacy and security.
